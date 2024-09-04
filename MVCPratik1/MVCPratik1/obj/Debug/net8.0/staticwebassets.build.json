@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "4yV8N8miWUxI5U3I/rfPuANBVsSZH2s+FXLwNR/eMTo=",
+  "Source": "MVCPratik1",
+  "BasePath": "_content/MVCPratik1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVCPratik1\\wwwroot",
+      "Source": "MVCPratik1",
+      "ContentRoot": "D:\\Yazılım\\Repository\\MVCPratik1\\MVCPratik1\\wwwroot\\",
+      "BasePath": "_content/MVCPratik1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
