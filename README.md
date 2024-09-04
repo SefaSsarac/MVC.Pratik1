@@ -1,6 +1,6 @@
 ASP.NET CORE MVC PROJESİ
 -
-Bu rehber, ASP.NET Core Empty projesinde MVC tasarım desenine uygun yapıları nasıl ekleyip yapılandıracağınızı açıklar.
+ASP.NET Core kullanarak bir MVC (Model-View-Controller) uygulaması oluşturmanın temel adımları.
 
 Proje Yapılandırması
 -
@@ -48,7 +48,5 @@ Varsayılan routing, uygulamanızın ana sayfasına yönlendirilmesi için belir
 
 Özet
 -
-Bu yapılandırmaları tamamladıktan sonra, projeniz MVC yapısına uygun olarak çalışmaya hazır olacaktır. Controllers klasöründe controller'larınızı, Models klasöründe model sınıflarınızı, Views klasöründe ise view'lerinizi oluşturabilirsiniz. wwwroot klasöründe ise CSS, JavaScript ve diğer statik dosyalarınızı barındırabilirsiniz.
-
-Uygulamanızı başlattığınızda, varsayılan routing yapılandırması ile belirlediğiniz controller'ın ana aksiyonu ana sayfanız olarak görüntülenecektir.
+ASP.NET Core MVC, web uygulamaları geliştirmek için güçlü bir framework'tür. Bu adımları takip ederek, projenizin temel yapı taşlarını oluşturabilir ve dinamik, veri odaklı uygulamalar geliştirebilirsiniz.
 
